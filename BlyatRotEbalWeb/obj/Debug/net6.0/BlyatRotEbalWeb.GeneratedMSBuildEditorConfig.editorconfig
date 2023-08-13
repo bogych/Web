@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlyatRotEbalWeb
+build_property.RootNamespace = BlyatRotEbalWeb
+build_property.ProjectDir = C:\Users\bogda\Desktop\2 семестр\BlyatRotEbalWeb\BlyatRotEbalWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bogda\Desktop\2 семестр\BlyatRotEbalWeb\BlyatRotEbalWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Cameras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Cameras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Cameras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Cameras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Cameras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/Camera.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW1lcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/CameraVivod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW1lcmFWaXZvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/Complect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/ComplectVivod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wbGVjdFZpdm9kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/Ekrani.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFa3JhbmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/EkraniVivod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFa3JhbmlWaXZvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/PC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQQy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/PCVivod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQQ1Zpdm9kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/Perefiria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJlZmlyaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/PerefiriaVivod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJlZmlyaWFWaXZvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/wwwroot/Camera.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxDYW1lcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bogda/Desktop/2 семестр/BlyatRotEbalWeb/BlyatRotEbalWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w1085n9ytr

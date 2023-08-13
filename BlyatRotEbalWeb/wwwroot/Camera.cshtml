@@ -1,0 +1,45 @@
+﻿@model Class
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Display Data";
+    string[] TableHeaders = new string[] { " Id ", " Name ", " ModelCode ", " Sostav ", " Mesto ", " Sost " };
+}
+<div class="table">
+    <table class="table table-bordered table-hover">
+    <thead>
+            <tr>@{
+                    foreach (var head in TableHeaders) 
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
+        </tr>
+    </thead>
+    <tr>
+        <td>
+
+        </td>
+    </tr>
+    <tbody>
+
+    </tbody>
+    </table>
+</div>
+<div><input type ="button" value="Add" id ="modal_window_button"/></div>
+<div id = "modal_window" class = "modal_windows">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <p>ВСЯКАЯ ХУЙНЯ НО В МОДАЛЬНОМ ОКНЕ @Model</p>
+
+        <form method="post" asp-controller="Home" asp-action="Check">
+            <label asp-for="Id">Номер Зека</label>
+            <input asp-for="Id" />
+            <span asp-validation-for="Id"></span>
+
+            <input type="submit"/>
+        </form>
+    </div>
+</div>

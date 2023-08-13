@@ -1,0 +1,57 @@
+﻿@model List<Camera>
+@{
+    Layout = "_Layout";
+    string[] TableHeaders = new string[] { " Id ", " Name ", " ModelCode ", " Sostav ", " Mesto ", " Sost " };
+}
+<div class="table">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                @{
+                    foreach (var head in TableHeaders)
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
+            </tr>
+        </thead>
+        <tr>
+            <td>
+            </td>
+        </tr>
+        <tbody>
+            @{
+                foreach (var data in Model)
+                {
+                    <tr>
+                        <td>
+                            @data.Id;
+                        </td>
+                        <td>
+                            @data.Name;
+                        </td>
+                        <td>
+                            @data.ModelCode;
+                        </td>
+                        <td>
+                            @data.Sostav;
+                        </td>
+                        <td>
+                            @data.Mesto;
+                        </td>
+                        <td>
+                            @data.Sost;
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+<form method="post" asp-controller="Home" asp-action="DeleteCamera">
+    <input for="IdForDelete" name="IdForDelete"/>
+    <input type="submit">
+ </form>
+

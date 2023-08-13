@@ -1,0 +1,26 @@
+﻿@model Complect
+<link rel="stylesheet" href="~/css/site.css"></link>
+<div align="center"><input type="button" class="button" value="Ввод Комплектующих" id="modal_window_button" /></div>
+<div id="modal_window" class="modal_windows">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <p>Vvod @Model</p>
+
+        <form method="post" asp-controller="Home" asp-action="Check1">
+            <label asp-for="Id">Номер Зека</label>
+            <input asp-for="Id" />
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" />
+            <label asp-for="ModelCode">Model Code</label>
+            <input asp-for="ModelCode" />
+            <label asp-for="Sostav">Sostav</label>
+            <input asp-for="Sostav" />
+            <label asp-for="Mesto">Mesto</label>
+            <input asp-for="Mesto" />
+            <label asp-for="Sost">Sost</label>
+            <input asp-for="Sost" />
+
+            <input type="submit" />
+        </form>
+    </div>
+</div>
